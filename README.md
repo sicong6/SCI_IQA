@@ -1,7 +1,7 @@
 # SCI_IQA
 Folder program-2020 is unavailable.
 
-ATS-CNN's codes are in Folder ATS-CNN_SIQAD.
+ATS-CNN's codes are in Folder ATS-CNN_SIQAD.(ATS-CNN: Asymmetric two-stream network for screen content image quality assessment based on region features)
 
 ## getTFfile_SIQAD_unite_random.py
 getTFfile_SIQAD_unite_random.py converts image data into tfrecord files.
